@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListenerScrollView</string>
+    <string name="label_add_content">Add Content</string>
+    <string name="label_scroll_description">Before adding more content, swipe to trigger onSwipeDown() method.</string>
+</resources>
